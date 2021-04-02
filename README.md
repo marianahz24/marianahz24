@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Mariana ! Nice knowing ya.
 - 👀 I’m interested in editing, art, and programming.
-- 📫 My [e-mail](https://outlook.com/m.hiller@uniandes.edu.co)
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marianahz24&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=marianahz24&redirect=true)
 
 
 <!--- [](https://visitor-badge.glitch.me/badge?page_id=marianahz24.marianahz24) --->
